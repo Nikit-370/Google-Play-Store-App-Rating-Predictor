@@ -8,10 +8,12 @@ This flask app is made using Python and this predicts the rating of the aaplicat
 - Build an environment for the project in the directory.
 # Step 3
 - Set the mysite directory inside the above created directory.
-#Step 4
-- Run the command: pip install -r requirements.txt
+# Step 4
+- Run the command: <br>
+```pip install -r requirements.txt```
 # Step 5
-- Run the command, inside the mysite directory in console: python manage.py migrate
+- Run the command, inside the mysite directory in console: <br>
+```python manage.py migrate```
 # Step 6
 - Run the command in same directory: python manage.py runserver<br>
 ```django-admin startproject <name_of_project>```<br>
