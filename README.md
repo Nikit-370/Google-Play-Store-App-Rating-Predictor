@@ -1,4 +1,6 @@
-# Fibonacci-series
+# Google Play Store App rating Predictor
+This flask app is made using Python and this predicts the rating of the aaplication present in the playstore.
+
 
 # Step 1
 - Create a project directory
